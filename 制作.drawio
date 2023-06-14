@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-06-14T03:14:40.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UjRgXPDRLTyz2lSPvQup" version="21.3.8" type="github">
+  <diagram name="ページ1" id="slrrJcJOEL8QfQa1Fsfv">
+    <mxGraphModel dx="733" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WfKLnXmFHogILljvn9E6-1" target="WfKLnXmFHogILljvn9E6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKLnXmFHogILljvn9E6-1" value="&lt;b&gt;ようこそ&lt;br&gt;&lt;/b&gt;&lt;br&gt;ログイン&lt;br&gt;・ID　&amp;nbsp;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;・PASS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="80" y="70" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.618;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WfKLnXmFHogILljvn9E6-4" target="556OIc2Tq0tx1AvMQnn_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKLnXmFHogILljvn9E6-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ログイン成功&lt;br&gt;掲示板みたいな&lt;br&gt;&lt;br&gt;・日時API&lt;br&gt;・DB接続&lt;br&gt;・ログアウト&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="210" y="270" width="165" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-1" value="TOP &amp;amp; ログイン画面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-4" value="メイン画面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="556OIc2Tq0tx1AvMQnn_-5" target="WfKLnXmFHogILljvn9E6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-5" value="&lt;b&gt;ログアウト&lt;br&gt;&lt;/b&gt;&lt;br&gt;・TOPにもどる" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="70" width="167.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-6" value="ログアウトページ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-8" value="Main.jsp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-9" value="Logout.jsp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-10" value="Index.jsp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-18" value="Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-20" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Index.jsp&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Main.jsp&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Logout.jsp&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-21" value="User.java (Beans)&lt;br&gt;Mutter.java&lt;br&gt;Main.java&lt;br&gt;LoginLogic.java" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-22" value="Controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="125" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-23" value="View" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="230" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="556OIc2Tq0tx1AvMQnn_-33" value="DAO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
